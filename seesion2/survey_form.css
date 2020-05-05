@@ -1,0 +1,38 @@
+.main
+{
+ background-image:url("team_work.jpg");
+ font-family: 'Roboto', sans-serif;
+ background-repeat: no-repeat;
+ background-position:center;
+ background-size:cover;
+}
+.main_part
+{
+
+
+
+
+}
+.form_element
+{
+ align:;
+ background:black;
+ width:500px;
+ color:white;
+ padding:30px;
+ opacity:0.9;	
+}
+
+.input1
+{
+ width:500px;
+ height:25px;
+ border-radius:5px;
+}
+.submit_button
+{
+  background:green;
+  width:500px; 
+  color:white;
+  border-radius:5px;
+}
