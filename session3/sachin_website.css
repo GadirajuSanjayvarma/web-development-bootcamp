@@ -1,0 +1,29 @@
+.thumbnail {
+    height:200px;
+    width:100%;
+}
+.custom
+{
+ background-color:grey;
+
+
+}
+
+.custom-list
+{
+ padding:50px;
+
+}
+
+.list-item
+{
+  margin:20px;
+  color:green;
+  
+}
+hr {
+  padding: 0 !important;
+  margin: 0 !important;
+  width: 400px;
+  border-top: 1px dotted #58585b;
+}
